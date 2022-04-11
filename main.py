@@ -2,7 +2,7 @@ import undetected_chromedriver
 from bs4 import BeautifulSoup
 import time
 
-# VERSION 0.0.1
+# VERSION 1.0
 # Main URL - Useful later for link building
 
 MAIN_URl = "https://www.openrent.co.uk"
