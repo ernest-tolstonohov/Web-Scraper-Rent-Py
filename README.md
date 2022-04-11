@@ -1,5 +1,5 @@
 # [WEB SCRAPER](https://github.com/P1eko/Web-Scraper-Rent-Py)
-This code performs the functions of a collective information from the site: https://www.openrent.co.uk/
+This code performs the functions of collective information from the site: https://www.openrent.co.uk/
 
 Then you can use this information for Chatbots or other ways to display information.
 
